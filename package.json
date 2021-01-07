@@ -6,9 +6,11 @@
   "scripts": {
     "init": "npm install && npm-run-all init:*",
     "init:dirs": "mkdirp src src/assets src/styles",
-    "init:files": "touch README.md src/index.html src/index.js src/styles/main.scss webpack.common.js webpack.dev.js webpack.prod.js",
+    "init:files": "touch README.md src/index.html src/index.js src/main.scss webpack.common.js webpack.dev.js webpack.prod.js",
     "init:gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore",
-    "init:gitignore:custom": "echo \"dist\" >> .gitignore"
+    "init:gitignore:custom": "echo \"dist\" >> .gitignore",
+    "dev": "webpack serve --config webpack.dev.js --open",
+    "build": "webpack --config webpack.prod.js"
   },
   "repository": {
     "type": "git",
