@@ -28,24 +28,6 @@ Use:
 <br />
 <hr />
 
-## Feel free to check [my portfolio](www.ldawidowicz.pl)
-
-🔭 I’m currently working on <b>JS skills</b> 🎛<br /><br />
-🤯 I want to create my own NPM CSS package ✨ and CMS <br />
-
-### Latest projects 🧬💻
-
-- [Wdding planer portfolio - bohho.eu 👰🍰](bohho.eu)<br /><br />
-- [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
-
-<br />
-<hr />
-
-### Contact me 📫
-
-<br />
-<hr />
-
 <!--
 **shivetay/shivetay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
